@@ -20,6 +20,9 @@
 
 title: Input, State, Action
 repository: "wkd3ogks/wkd3ogks.github.io"
+locale: 'ko-KR'
+baseurl: "/blog"
+search: true
 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
