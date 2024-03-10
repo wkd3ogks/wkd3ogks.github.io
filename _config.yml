@@ -29,10 +29,6 @@ author:
   bio      : "My awesome biography constrained to a sentence or two goes here."
   location : "Somewhere, USA"
 
-category_archive:
-  type: liquid
-  path: /categories/
-    
 include: ["_pages"]
 
 defaults:
