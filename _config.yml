@@ -26,8 +26,8 @@ locale: "ko-KR"
 
 author:
   name     : "Jang Dae Han"
-  bio      : "My awesome biography constrained to a sentence or two goes here."
-  location : "Somewhere, USA"
+  bio      : "컴퓨터 공학을 공부하고 있는 학생입니다. 인공지능과 알고리즘에 관심이 많습니다."
+  location : "한국, 어딘가"
 
 include: ["_pages"]
 
