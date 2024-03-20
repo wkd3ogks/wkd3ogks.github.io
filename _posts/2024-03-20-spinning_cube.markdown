@@ -17,7 +17,7 @@ categories: JS
 
 ## 📡 실행 주소
 
-[http://wkd3ogks.github.io/spinning-cube](http://wkd3ogks.github.io/spinning-cube).
+[https://wkd3ogks.github.io/Spinning-Cube/](https://wkd3ogks.github.io/Spinning-Cube/)
 
 ## 🔑 핵심 개념
 
