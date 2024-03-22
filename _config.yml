@@ -27,7 +27,6 @@ locale: "ko-KR"
 author:
   name     : "Jang Dae Han"
   bio      : "컴퓨터 공학을 공부하는 학생입니다."
-  <i class=""></i>
   location : "한국, 어딘가"
   links:
     - label: "Github"
