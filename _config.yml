@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Don't Complicate It"
+title: "Don't Complicate It!"
 repository: "wkd3ogks/wkd3ogks.github.io"
 search: true
 
