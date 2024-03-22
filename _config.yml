@@ -30,7 +30,7 @@ author:
   location : "한국, 어딘가"
   links:
     - label: "Github"
-      icon: "fa-brands fa-github"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/wkd3ogks"
 
 include: ["_pages"]
