@@ -31,6 +31,8 @@ author:
 
 include: ["_pages"]
 
+logo: "/assets/images/88x88.png"
+
 defaults:
   # _posts
   - scope:
