@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "메모장"
+title: "Caught Up In A Dream"
 repository: "wkd3ogks/wkd3ogks.github.io"
 search: true
 
