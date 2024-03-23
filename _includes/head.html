@@ -9,7 +9,7 @@
 <!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link rel="shortcut icon" href="{{'/assets/images/pablo.jpg' | relative_url }}" />
+<link rel="shortcut icon" href="{{'/assets/images/88x88.jpg' | relative_url }}" />
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
@@ -25,3 +25,8 @@
     <script src="{{ script | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+<!-- Mathjax Support -->
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
