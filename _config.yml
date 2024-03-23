@@ -32,7 +32,7 @@ author:
   links:
     - label: "Github"
       icon: "fab fa-fw fa-github"
-    url: "https://github.com/wkd3ogks"
+      url: "https://github.com/wkd3ogks"
 
 include: ["_pages"]
 
