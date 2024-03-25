@@ -1,7 +1,7 @@
 ---
 title:  "[PS] 수학 개념 정리"
 date:   2024-03-15 22:00:00 +0900
-categories: 알고리즘
+categories: 수학
 ---
 
 ### 홀수와 짝수
